@@ -33,7 +33,7 @@ public class AppRunner {
     }
 
     private void startSimulation() {
-        print("В автомате доступны:");
+        print("В автомате:");
         showProducts(products);
 
         print("Баланс: " + moneyReceiver.getBalance());

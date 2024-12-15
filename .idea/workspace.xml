@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d8d9980a-79b2-49db-b9ec-3da9fea37e9a" name="Changes" comment="There were no changes">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/vending_machine/AppRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/vending_machine/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/vending_machine/enums/ActionLetter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/vending_machine/model/CardAcceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/vending_machine/model/CocaCola.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/vending_machine/model/CoinAcceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/vending_machine/model/Mars.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/vending_machine/model/Pistachios.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/vending_machine/model/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/vending_machine/model/Snickers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/vending_machine/model/Soda.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/vending_machine/model/Water.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/vending_machine/util/MoneyReceiver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/vending_machine/util/UniversalArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/vending_machine/util/UniversalArrayImpl.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="home_work_25" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="home_work_25" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MaksatI2"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MaksatI2/home_work_25.git",
+    "accountId": "39736613-6317-4fb6-b541-89785e91f586"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2qBpcXeW7pR7rl5Uwb1X280aekY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/maksat/Downloads/vending_machine-master"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8d9980a-79b2-49db-b9ec-3da9fea37e9a" name="Changes" comment="" />
+      <created>1734145902964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734145902964</updated>
+    </task>
+    <task id="LOCAL-00001" summary="hello">
+      <option name="closed" value="true" />
+      <created>1734146442973</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734146442973</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added an interface for replenishing the balance and obtaining the current balance.">
+      <option name="closed" value="true" />
+      <created>1734158799015</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734158799015</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added a card acceptor class for future implementations and replacement with a coin acceptor">
+      <option name="closed" value="true" />
+      <created>1734159297041</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734159297041</updated>
+    </task>
+    <task id="LOCAL-00004" summary="I made it so that it was easy to replace the money changer.">
+      <option name="closed" value="true" />
+      <created>1734160608929</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1734160608929</updated>
+    </task>
+    <task id="LOCAL-00005" summary="All I did:&#10;AppRunner now accepts an object of type MoneyReceiver through its constructor.&#10;Added private final PaymentProcessor paymentProcessor;&#10;Changed the run method.&#10;Adaptation of methods for MoneyReceiver">
+      <option name="closed" value="true" />
+      <created>1734160916468</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1734160916468</updated>
+    </task>
+    <task id="LOCAL-00006" summary="All I did:&#10;AppRunner now accepts an object of type MoneyReceiver through its constructor.&#10;Added private final MoneyReceiver moneyReceiver;&#10;Changed the run method.&#10;Adaptation of methods for MoneyReceiver">
+      <option name="closed" value="true" />
+      <created>1734161380032</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1734161380032</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added files: MoneyReceiver,CardAcceptor&#10;Changed:AppRunner,Main,CoinAcceptor">
+      <option name="closed" value="true" />
+      <created>1734161626740</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1734161626740</updated>
+    </task>
+    <task id="LOCAL-00008" summary="There were no changes">
+      <option name="closed" value="true" />
+      <created>1734238361757</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1734238361757</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hello" />
+    <MESSAGE value="Added an interface for replenishing the balance and obtaining the current balance." />
+    <MESSAGE value="Added a card acceptor class for future implementations and replacement with a coin acceptor" />
+    <MESSAGE value="I made it so that it was easy to replace the money changer." />
+    <MESSAGE value="All I did:&#10;AppRunner now accepts an object of type MoneyReceiver through its constructor.&#10;Added private final PaymentProcessor paymentProcessor;&#10;Changed the run method.&#10;Adaptation of methods for MoneyReceiver" />
+    <MESSAGE value="All I did:&#10;AppRunner now accepts an object of type MoneyReceiver through its constructor.&#10;Added private final MoneyReceiver moneyReceiver;&#10;Changed the run method.&#10;Adaptation of methods for MoneyReceiver" />
+    <MESSAGE value="added files: MoneyReceiver,CardAcceptor&#10;Changed:AppRunner,Main,CoinAcceptor" />
+    <MESSAGE value="There were no changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="There were no changes" />
+  </component>
+</project>
